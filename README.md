@@ -1,4 +1,5 @@
 # Confeitaria-layout
+resumo: esté é um projeto de treino bem puxado para o tema de cookies, ideia era bem mais treinar o posicionamento com o flexbox
 
 tecnologias: HTML e CSS
 
